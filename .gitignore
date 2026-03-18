@@ -14,3 +14,9 @@ wheels/
 main.py 
 pyproject.toml
 uv.lock
+
+/*
+!/decision-minutes-backend/
+/decision-minutes-backend/alembic
+/decision-minutes-backend/alembic.ini
+/decision-minutes-backend/.env 
